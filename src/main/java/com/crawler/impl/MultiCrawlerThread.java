@@ -1,9 +1,9 @@
 package com.crawler.impl;
 
-import com.crawler.HtmlParser;
+import com.crawler.example.HtmlParser;
 import com.crawler.model.Song;
 import com.crawler.model.WebPage;
-import com.crawler.Crawler;
+import com.crawler.example.Crawler;
 
 import java.util.List;
 

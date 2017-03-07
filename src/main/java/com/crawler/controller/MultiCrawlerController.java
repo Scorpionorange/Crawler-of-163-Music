@@ -1,7 +1,7 @@
 package com.crawler.controller;
 
 import com.crawler.model.Song;
-import com.crawler.Crawler;
+import com.crawler.example.Crawler;
 import com.crawler.impl.MultiCrawlerWithList;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

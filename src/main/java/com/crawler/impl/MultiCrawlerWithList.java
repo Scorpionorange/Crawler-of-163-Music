@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit;
 
 import com.crawler.model.Song;
 import com.crawler.model.WebPage;
-import com.crawler.Crawler;
+import com.crawler.example.Crawler;
 
 public class MultiCrawlerWithList implements Crawler {
 

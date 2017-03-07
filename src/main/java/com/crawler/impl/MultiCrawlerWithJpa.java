@@ -1,7 +1,7 @@
 package com.crawler.impl;
 
 import com.crawler.model.Song;
-import com.crawler.Crawler;
+import com.crawler.example.Crawler;
 import com.crawler.repository.SongRepository;
 import com.crawler.repository.WebPageRepository;
 import com.crawler.model.WebPage;
